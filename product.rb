@@ -1,1 +1,3 @@
-Bug, what bug?
+<% if !@foo.nil? && !@foo.new_record? %>
+  Hello!
+<% end %>

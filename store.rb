@@ -1,1 +1,3 @@
-There is nothing here to fix.
+if val.nil? || val == 0
+  [do something]
+end
