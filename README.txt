@@ -16,4 +16,4 @@ Yes, you do.  You sound ridiculous, otherwise.  Open to ridicule.
 
 I don't care about ridicule.
 
-...Lucky you.
+...Lucky you.  I think the cake is truthful.
