@@ -21,3 +21,9 @@ I don't care about ridicule.
 ...Why?
 
 Really, are you serious?  It just says 'Happy Birthday!', there's nothing else it needs to say.  It's a birthday cake; no alterior motives.
+
+...None that you know about...
+
+*stares*  Oh-kay.  Yeah, I'm going to just let you talk.  I'll just listen.
+
+Thank you.
