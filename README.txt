@@ -13,3 +13,7 @@ How do you know; does the frosting say it's a lie?  Where is your proof?
 I don't need proof.
 
 Yes, you do.  You sound ridiculous, otherwise.  Open to ridicule.
+
+I don't care about ridicule.
+
+...Lucky you.
