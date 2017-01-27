@@ -8,11 +8,15 @@ Why?
 
 It allows communication and file sharing for projects between terminals as long as both have Git installed.
 
-Download Git here: https://git-scm.com/
+Windows users can <a href="https://git-scm.com/" target="_blank">download Git here.</a>
 
-CONVERSATIONAL CONSPIRACY THEORIES
+Mac OS X has Git pre-installed, but it can be upgraded and maintained with <a href="http://brew.sh/" target="_blank">Homebrew</a> - the OS X package manager.
 
-*******************************************
+Linux users can install Homebew for Linux <a href="http://linuxbrew.sh/" target="_blank">here</a>.
+
+PROJECT-RELATED CONVERSATIONAL CONSPIRACY THEORIES
+
+**************************************************
 
 The cake is a lie.
 
