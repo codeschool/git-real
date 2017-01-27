@@ -12,7 +12,7 @@ Windows users can <a href="https://git-scm.com/" target="_blank">download Git he
 
 Mac OS X has Git pre-installed, but it can be upgraded and maintained with <a href="http://brew.sh/" target="_blank">Homebrew</a> - the OS X package manager.
 
-Linux users can install Homebew for Linux <a href="http://linuxbrew.sh/" target="_blank">here</a>.
+Linux users can install Homebrew for Linux <a href="http://linuxbrew.sh/" target="_blank">here</a>.
 
 PROJECT-RELATED CONVERSATIONAL CONSPIRACY THEORIES
 
